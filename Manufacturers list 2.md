@@ -1,6 +1,7 @@
 # Manufacturers list 1 (Digit 13: 1 or 2)
 
 Digit 13: 1 or 2
+
 Digits 15 and 16: Manufacturer code
 
 | Manufacturer code | Manufacturer                                                      | Country
