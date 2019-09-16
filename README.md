@@ -7,9 +7,9 @@
 |:------:|:------:|------------
 |      1 |    8   | [Reel number](#reel-number) ([Scandinavian manufacturer](#scandinavian-manufacturer)) ([Central European manufacturer](#central-european-manufacturer))
 |      9 |    4   | Reel weight
-|     13 |    1   | [Copacking](#copacking) + Manufacturer code
+|     13 |    1   | [Copacking](#copacking) + [Manufacturer code](#manufacturer-code)
 |     14 |    1   | [Grammage and quality](#grammage-and-quality)
-|     15 |    2   | Manufacturer code
+|     15 |    2   | [Manufacturer code](#manufacturer-code)
 
 ## Reel number
 ### Scandinavian manufacturer
@@ -50,3 +50,14 @@ If digit 13 is even number (2, 4, 6 or 8): 2 reel per wrapping
 |   8   | 52 g/m² upgraded newsprint
 |   9   | 55 g/m² upgraded newsprint
 |   0   | Other
+
+## Manufacturer code
+
+Digit 13: Manufacturer list
+Digits 15 and 16: Manufacturer code
+
+| Digit 13 | Manufacturer list
+|:--------:|------------------
+|  1 or 2  | [List 1](Manufacturers%20list%201.md)
+|  3 or 4  | [List 2](Manufacturers%20list%202.md)
+|  5 or 6  | [List 3](Manufacturers%20list%203.md)
