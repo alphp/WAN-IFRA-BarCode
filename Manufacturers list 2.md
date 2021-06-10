@@ -1,4 +1,4 @@
-# Manufacturers list 4 (Digit 13: 3 or 4)
+# Manufacturers list 2 (Digit 13: 3 or 4)
 
 Digit 13: 3 or 4
 
