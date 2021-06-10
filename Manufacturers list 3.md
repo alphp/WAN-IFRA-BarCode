@@ -1,6 +1,6 @@
-# Manufacturers list 1 (Digit 13: 1 or 2)
+# Manufacturers list 3 (Digit 13: 5 or 6)
 
-Digit 13: 1 or 2
+Digit 13: 5 or 6
 
 Digits 15 and 16: Manufacturer code
 
